@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-gpaul-mcp-mcp-prompt-localdev-badge.png)](https://mseep.ai/app/mcp-mirror-gpaul-mcp-mcp-prompt-localdev)
+
 # TypeScript Prompt MCP Server
 
 A Model Context Protocol (MCP) server that provides pre-defined prompt templates for AI assistants, allowing them to generate comprehensive plans for TypeScript projects, API architectures, and GitHub workflows.
